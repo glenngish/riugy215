@@ -3,7 +3,7 @@
 <!-- 👀 I’m interested in javascript
 - 🌱 I’m currently learning webrtc
 - 📫 How to reach me sunshinerug215@gmail.com -->
-👋 Hi, I’m sunshine
+👋 Hi, I’m @SUNSHINE
 -----------------
 ### Skills 
 <p align="left">
