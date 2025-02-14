@@ -2,8 +2,8 @@
 
 - 👀 I’m interested in javascript, python, AI/ML
 - 🌱 I’m currently learning webrtc
-- 📫 How to reach me koenlee.uh@gmail.com-
-👋 Hi, I’m @koen
+- 📫 How to reach me koenlee.uh@gmail.com </br>
+<h5>👋 Hi, I’m @koen</h5>h5
 -----------------
 ### Skills 
 <p align="left">
